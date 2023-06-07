@@ -9,7 +9,7 @@
 ![Profile views](https://visitor-badge.glitch.me/badge?page_id=nikunj6636.nikunj6636)
 [![Github](https://img.shields.io/github/followers/nikunj6636?label=Follow&style=social)](https://github.com/nikunj6636)
 
-<div size='20px'> Hi! I'm Nikunj Garg a Computer Science Undergraduate at IIIT Hyderabad with a good handshake in competitive programming and spider_web Applications. I love coding and aspires to build things for good rocket.
+<div size='20px'> Hi! I'm Nikunj Garg, a Computer Science Undergraduate at IIIT Hyderabad with a good handshake in competitive programming and spider_web Applications. I love coding and aspires to build things for good rocket.
 </div>
 
 <h2> About Me <img src = "https://media0.giphy.com/media/KDDpcKigbfFpnejZs6/giphy.gif?cid=ecf05e47oy6f4zjs8g1qoiystc56cu7r9tb8a1fe76e05oty&rid=giphy.gif" width = 100px></h2>
